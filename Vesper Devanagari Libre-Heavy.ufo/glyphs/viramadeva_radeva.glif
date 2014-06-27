@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="viramadeva_radeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="614" y="-457" type="line"/>
+      <point x="740" y="-322" type="line"/>
+      <point x="255" y="113" type="line"/>
+      <point x="-230" y="-282" type="line"/>
+      <point x="-3" y="-467" type="line"/>
+      <point x="287" y="-92" type="line"/>
+    </contour>
+  </outline>
+</glyph>
